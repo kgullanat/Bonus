@@ -1,5 +1,5 @@
 
 public interface BonusCalculator {
-	double computerBonus(double n);
+	double computeBonus(double n);
 
 }
